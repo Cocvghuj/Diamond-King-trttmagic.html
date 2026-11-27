@@ -1,0 +1,2 @@
+# Diamond-King-trttmagic.html
+TRTT MAGIC COMMAND CENTER — DIAMOND VERSION (PROJECT BOUND)
