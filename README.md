@@ -7,7 +7,7 @@ This repository contains a standalone legacy HTML dashboard for the TRTT Voyage 
 - **Project code:** DR-TRTT-OPS-001
 - **Brand:** TRTT Voyage — From Vision to Global Brand! Explore Beyond. Discover Everything.
 - **Owner:** Engr. Abu Taher
-- **Current website:** https://trttvoyage.com
+- **Current website:** https://www.trttvoyage.com
 - **Current canonical command-center repository:** https://github.com/Cocvghuj/trttvoyage-diamond-king-chatgpt-6
 - **This repository:** https://github.com/Cocvghuj/Diamond-King-trttmagic.html
 
